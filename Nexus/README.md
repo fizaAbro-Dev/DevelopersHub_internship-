@@ -4,7 +4,7 @@ Business Nexus is a modern business networking platform designed to connect entr
 
 ## 🚀 Live Demo
 
-https://YOUR-BUSINESS-NEXUS-VERCEL-LINK.vercel.app
+diabetes-prediction-using-machine-l-six.vercel.app
 
 ## ✨ Features
 
